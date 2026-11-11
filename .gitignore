@@ -1,0 +1,12 @@
+work/checkpoints/*
+!work/checkpoints/.gitkeep
+work/logs/*
+!work/logs/.gitkeep
+.ipynb_checkpoints/
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+.env
+*.pem
+*.key
+*.tar.gz
